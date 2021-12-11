@@ -13,7 +13,7 @@
                     </div>
                 @endif
 
-                {{ __('You are wt4tw4 afeafen!') }}
+                {{ __('You are wt4tw4fwen!') }}
             </div>
         </div>
     </div>
