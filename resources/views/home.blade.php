@@ -13,7 +13,7 @@
                     </div>
                 @endif
 
-                {{ __('You are nn in in!') }}
+                {{ __('You arffiiifgsirjgsrgsrgsrigsjgsrjgisjrgsn!') }}
             </div>
         </div>
     </div>
