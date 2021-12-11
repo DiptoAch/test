@@ -14,6 +14,8 @@
                 @endif
 
                 {{ __('You arffiiifjrsgrgsirjgsrgsrgsrigsjgsrjgisjrgsn!') }}
+                {{ __('You arffiiifjrsgrgsirjgsrgsrgsrigsjgsrjgisjrgsn!') }}
+                {{ __('You rizvi zriiirisgjr jgisjrgsn!') }}
             </div>
         </div>
     </div>
